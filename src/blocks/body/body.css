@@ -1,0 +1,6 @@
+.body {
+    background-image: url('../../assets/t.jpg');
+    background-size: cover;
+    background-position: bottom;
+    font-family: 'montseratt', sans-serif;
+}

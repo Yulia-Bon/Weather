@@ -1,0 +1,6 @@
+.body_cold {
+    object-fit: scale-down;
+    background-size: cover;
+    background-position: bottom;
+    background-image: url('../../../assets/445816c416758e4.jpg');
+}

@@ -1,0 +1,19 @@
+
+@import url(./blocks/pages/pages.css);
+@import url(./blocks/main/main.css);
+
+@import url(./blocks/body/body.css);
+@import url(./blocks/body/_warm/body_warm.css);
+@import url(./blocks/body/_cold/body_cold.css);
+
+@import url(./blocks/header/__search-bar/header__search-bar.css);
+@import url(./blocks/header/__search-box/__search-box.css);
+
+@import url(blocks/location-box/location-box.css);
+@import url(blocks/location-box/__date/location-box__date.css);
+@import url(blocks/location-box/__location/location-box__location.css);
+
+@import url(blocks/weather-box/__temp/weather-box__temp.css);
+@import url(blocks/weather-box/weather-box.css);
+@import url(blocks/weather-box/__weather/weather-box__weather.css);
+
